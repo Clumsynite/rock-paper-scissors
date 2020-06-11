@@ -1,0 +1,1 @@
+<a href="https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors?ref=lnav" target="_blank">Rock Paper Scissors</a> through javascript.
